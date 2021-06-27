@@ -15,7 +15,7 @@
 		"@prisma/client": "2.25.0",
 		"@sentry/node": "6.7.2",
 		"bufferutil": "4.0.3",
-		"convert": "1.9.1",
+		"convert": "2.1.1",
 		"cron": "1.8.2",
 		"date-fns": "2.22.1",
 		"delay": "5.0.0",
