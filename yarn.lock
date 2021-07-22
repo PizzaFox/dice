@@ -4405,7 +4405,7 @@ __metadata:
     discord-md-tags: 1.0.0
     discord.js: 12.5.3
     dotenv: 10.0.0
-    escape-string-regexp: 4.0.0
+    escape-string-regexp: 5.0.0
     eslint-plugin-jest: 24.4.0
     eslint-plugin-prettier: 3.4.0
     got: 11.8.2
@@ -4877,10 +4877,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"escape-string-regexp@npm:4.0.0":
-  version: 4.0.0
-  resolution: "escape-string-regexp@npm:4.0.0"
-  checksum: c747be8d5ff7873127e3e0cffe7d2206a37208077fa9c30a3c1bb4f26bebd081c8c24d5fba7a99449f9d20670bea3dc5e1b6098b0f074b099bd38766271a272f
+"escape-string-regexp@npm:5.0.0":
+  version: 5.0.0
+  resolution: "escape-string-regexp@npm:5.0.0"
+  checksum: 7a6553f97f634c0d50fad051142ec3d45ff6be9105dc64a1257098db507aac03c63832f026cee5cd041d29f0c4cc449ff43018112c91d192eec4af8f8985461c
   languageName: node
   linkType: hard
 
